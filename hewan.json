@@ -1,7 +1,4 @@
-// File: db_hewan.js
-// Database 500 hewan untuk game tebak hewan.
-
-export const localDatabase = [
+[
     // Mamalia (1-100)
     { title: "Singa", url: "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg" },
     { title: "Harimau", url: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Walking_tiger_female.jpg" },
